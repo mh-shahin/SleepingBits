@@ -1,0 +1,35 @@
+Rakesh cse, [12/21/2024 9:25 PM]
+ngrok - free api link:
+
+Rakesh cse, [12/21/2024 9:25 PM]
+https://0940-34-121-215-248.ngrok-free.app
+
+Rakesh cse, [12/21/2024 9:25 PM]
+POST:https://edd5-34-121-215-248.ngrok-free.app/ingredients
+
+Rakesh cse, [12/21/2024 9:26 PM]
+json: {
+  "name": "Tomato",
+  "quantity": 5,
+  "unit": "pcs"
+}
+
+Rakesh cse, [12/21/2024 9:26 PM]
+GET:https://edd5-34-121-215-248.ngrok-free.app/ingredients
+
+Rakesh cse, [12/21/2024 9:26 PM]
+PUT:https://edd5-34-121-215-248.ngrok-free.app/ingredients/1
+
+Rakesh cse, [12/21/2024 9:26 PM]
+{
+  "quantity": 10,
+  "unit": "pcs"
+}
+
+Rakesh cse, [12/21/2024 9:26 PM]
+POST:https://edd5-34-121-215-248.ngrok-free.app/recipes/text
+
+Rakesh cse, [12/21/2024 9:26 PM]
+json:{
+  "recipe_text": "Recipe: Tomato Soup\nIngredients: Tomato, Onion, Garlic, Salt, Pepper\nTaste: Savory\nReviews: 4.5/5\nCuisine: Italian\nPreparation Time: 30 minutes"
+}
